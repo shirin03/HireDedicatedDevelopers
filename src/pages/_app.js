@@ -1,4 +1,5 @@
 import { ThemeProvider } from "styled-components";
+
 import GlobalStyleThemes from "../styles/GlobalStyleTheme";
 import GlobalStyles from "../styles/GlobalStyle.style";
 import Navigation from "../component/Navigation/Navigation";
@@ -13,6 +14,7 @@ function MyApp({ Component, pageProps }) {
         <Navigation />
         <Component {...pageProps} />
         <Footer />
+        
       </ThemeProvider>
     </>
   );

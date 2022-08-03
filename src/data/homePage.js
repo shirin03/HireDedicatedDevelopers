@@ -11,7 +11,7 @@ export const HomePageData = {
     "Seamless visualisation across all devices with pixel perfect designs and stunning User experience",
   btnLink: "#contact-form-top",
   btnText: "Get Started",
-  imgSrc: "/images/HireDedicated/hire-angular-developers.png",
+  imgSrc: "/images/homeImages/banner-image-top.png",
   imgAlt: "Hire Angular Developers",
   clutchReviewText:
     "They had so far exceeded every of my expectations and i believe they will continue to do so.",
