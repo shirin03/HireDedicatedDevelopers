@@ -12,26 +12,28 @@ export const HomePageData = {
   btnLink: "#contact-form-top",
   btnText: "Get Started",
   imgSrc: "/images/homeImages/banner-image-top.png",
-  imgAlt: "Hire Angular Developers",
-  clutchReviewText:
-    "They had so far exceeded every of my expectations and i believe they will continue to do so.",
-  listMenus: [
+  imgAlt: "banner-image-top",
+  subTitle:"They",
+  subTitleSpan:"Trusted Us",
+  listimages: [
     {
       id: 1,
-      title: "Cross Platform",
-      img: "/images/HireDedicated/icons/cross-platform.svg",
+    
+      imgSrc: "/images/homeImages/color.png",
+      imgAlt:"color",
     },
     {
       id: 2,
-      title: "Speed & Performance",
-      img: "/images/HireDedicated/icons/speed-&-performance.svg",
+      title: "sokule",
+      imgSrc: "/images/homeImages/sokule.png",
     },
     {
       id: 3,
-      title: "User friendly",
-      img: "/images/HireDedicated/icons/user-friendly.svg",
+      title: "",
+      imgSrc: "/images/HireDedicated/icons/user-friendly.svg",
     },
   ],
+
   expertiseIns: {
     title: "Hire Angular Developers with Expertise in",
     subTitle:
